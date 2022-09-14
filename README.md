@@ -13,7 +13,7 @@ to use LandingPage_Test, follow these steps:
 1. open the git bash terminal
 2. enter the following code:
 ```
-git clone https://github.com/MokdcyVictor/Sistema_Bancario.git
+git clone https://github.com/MokdcyVictor/LandingPage_Test.git
 ```
 
 ## 🔧 Function
